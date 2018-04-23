@@ -1,0 +1,17 @@
+﻿<Window x:Class="DXGauges_StateIndicator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dxga="http://schemas.devexpress.com/winfx/2008/xaml/gauges"
+        Title="MainWindow" Height="350" Width="525" >
+    <Grid>
+        <dxga:StateIndicatorControl Name="stateIndicatorControl1" StateIndex="2"
+                                    MouseEnter="stateIndicatorControl1_MouseEnter" 
+                                    MouseLeave="stateIndicatorControl1_MouseLeave">
+            <!--region #Model-->
+            <dxga:StateIndicatorControl.Model>
+                <dxga:SmileStateIndicatorModel />
+            </dxga:StateIndicatorControl.Model>
+            <!--endregion #Model-->
+        </dxga:StateIndicatorControl>
+    </Grid>
+</Window>
