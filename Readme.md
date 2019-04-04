@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/DXGauges_StateIndicator/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXGauges_StateIndicator/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DXGauges_StateIndicator/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXGauges_StateIndicator/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXGauges_StateIndicator/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXGauges_StateIndicator/MainWindow.xaml.vb))
 <!-- default file list end -->
 # DXGauges Getting Started - Lesson 4 - Create a State Indicator
 
