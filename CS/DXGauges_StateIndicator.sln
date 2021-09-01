@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGauges_StateIndicator", "DXGauges_StateIndicator\DXGauges_StateIndicator.csproj", "{E1AD3ECE-2AD5-4041-887F-178011B90B7C}"
 EndProject
 Global
