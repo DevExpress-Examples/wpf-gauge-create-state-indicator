@@ -25,7 +25,7 @@ Please read the following help topic for step-by-step instructions: [Create a St
 * [StateIndicatorControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Gauges.StateIndicatorControl)
 * [State Image](https://docs.devexpress.com/WPF/10680/controls-and-libraries/gauge-controls/visual-elements/state-indicator/state-image)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-gauge-create-state-indicator&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-gauge-create-state-indicator&~~~was_helpful=no)
 
